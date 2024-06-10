@@ -20,9 +20,9 @@ export function Home() {
         <button>3</button>
         <button>4</button>
         <button>5</button>
-
-        <button>Enviar</button>
       </ButtonContainer>
+
+      <button>Enviar</button>
     </CardContainer>
   )
 }
